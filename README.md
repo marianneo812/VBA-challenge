@@ -1,0 +1,1 @@
+I used ChatGPT to help me write the code, in particular, I used it to help me cycle through all the sheets and get the formula for calculating the yearly/percentage change. The other parts of the code I got from the "Credit Card" activity from Week 2 Lesson 3. 
